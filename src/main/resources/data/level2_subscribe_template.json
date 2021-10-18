@@ -1,0 +1,9 @@
+{
+  "type": "subscribe",
+  "product_ids": [
+    "%s"
+  ],
+  "channels": [
+    "level2", "heartbeat"
+  ]
+}
